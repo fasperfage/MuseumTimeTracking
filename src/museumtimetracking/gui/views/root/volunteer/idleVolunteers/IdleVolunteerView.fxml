@@ -13,7 +13,7 @@
 <?import javafx.scene.text.Font?>
 
 <BorderPane xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="museumtimetracking.gui.views.root.volunteer.idleVolunteers.IdleVolunteerViewController">
-   <left>
+   <top>
       <Accordion BorderPane.alignment="CENTER">
          <panes>
             <TitledPane animated="false" text="Inaktive Frivillige">
@@ -53,5 +53,5 @@
             </TitledPane>
          </panes>
       </Accordion>
-   </left>
+   </top>
 </BorderPane>
