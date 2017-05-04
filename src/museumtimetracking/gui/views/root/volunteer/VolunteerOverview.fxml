@@ -111,6 +111,7 @@
                            <VBox.margin>
                               <Insets />
                            </VBox.margin></ImageView>
+                        <Label text="Information af den frivillige:">
                            <VBox.margin>
                               <Insets bottom="1.0" left="2.0" top="1.0" />
                            </VBox.margin>
